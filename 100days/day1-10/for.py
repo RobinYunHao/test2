@@ -4,12 +4,12 @@ for i in range(row):
     for _i in range(i + 1):
         print("r", end = '')
     print("u")"""
-'''for m in range(1,100):
+for m in range(1,100):
     for y in range(1,100):
-        u = m % y
+        u = m / y
         print(u)
-        i =isinstance(u,int)'''
-import math
+        i =isinstance(u,int)
+"""import math
 
 # test
 for num in range(2, 100):
@@ -19,4 +19,4 @@ for num in range(2, 100):
             is_prime = False
             break
     if is_prime:
-        print(num, end=' ')
+        print(num, end=' ')"""
