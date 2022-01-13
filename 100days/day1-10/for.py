@@ -11,6 +11,7 @@ for i in range(row):
         i =isinstance(u,int)'''
 import math
 
+# test
 for num in range(2, 100):
     is_prime = True
     for factor in range(2, int(math.sqrt(num)) + 1):
